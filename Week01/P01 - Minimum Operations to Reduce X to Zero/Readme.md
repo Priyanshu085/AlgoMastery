@@ -1,7 +1,7 @@
-# Q1658. Minimum Operations to Reduce X to Zero
+# Q1658. [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/?source=submission-ac)
 ---
 
-Given a list of numbers and a target value x, you need to find the minimum number of operations to reduce x to zero. Each operation involves removing numbers from the list either from the start or the end.
+#### Given a list of numbers and a target value x, you need to find the minimum number of operations to reduce x to zero. Each operation involves removing numbers from the list either from the start or the end.
 
 ### Constraints:
 ```
